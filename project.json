@@ -1,0 +1,9 @@
+{
+    "title": "Google OpenAI Integration",
+    "description": "This integration helps to have chat conversation with Google OpenAI model = gpt-4o-mini",
+    "categories": [
+        "OpenAI",
+        "Chat API"
+    ],
+    "deltav": false
+}
